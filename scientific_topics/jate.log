@@ -1,0 +1,2 @@
+2013-05-21 23:56:34,632 [AWT-EventQueue-0] ERROR AWT-EventQueue-0 edu.uit.snmr.view.TopicLoadingController - conf\enron.properties (The system cannot find the path specified)
+2013-05-25 22:39:22,918 [main] DEBUG main edu.uit.snmr.dataset.termextractor.FileTermExtractor - Start extracting terms for corpus D:/muonnv/data/test/aa
